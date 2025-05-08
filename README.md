@@ -27,11 +27,10 @@ Clothing leads with 35.56% of total sales.
 Customer count and spending are relatively balanced across genders.
 Electronics and Beauty follow closely behind Clothing in revenue share.
 
-🧰 Tools Used
-
-Power BI Desktop
+🧰 Tools Used: Power BI Desktop
 
 🧠 Author
+
 Yolisa Velebayi
 📍 Cape Town
 🔗 LinkedIn
